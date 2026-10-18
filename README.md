@@ -1,4 +1,4 @@
-# 🏏 CRICVISION – Intelligent IPL Analytics & Forecasting System
+#  CRICVISION – Intelligent IPL Analytics & Forecasting System
 
 **Turning IPL ball-by-ball data into meaningful cricket insights using SQL, Python, and machine learning.**
 
@@ -79,6 +79,6 @@ Predictions and forecasts are estimates based on historical data and the assumpt
 - Automated data ingestion and updates
 - Additional interactive reports and deployment improvements
 
-## 👩‍💻 Project Focus
+##  Project Focus
 
 CRICVISION demonstrates the integration of database management, SQL analytics, Python programming, statistical analysis, machine learning, and interactive dashboard development in a real-world sports analytics application.
