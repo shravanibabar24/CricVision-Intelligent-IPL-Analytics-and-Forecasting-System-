@@ -2,13 +2,13 @@
 
 **Turning IPL ball-by-ball data into meaningful cricket insights using SQL, Python, and machine learning.**
 
-## 📌 Overview
+## Overview
 
 CRICVISION is an interactive IPL analytics and forecasting platform that transforms historical cricket data into actionable statistical insights. It combines relational database design, SQL-based analytics, exploratory data analysis, machine learning, and interactive visualizations in a unified Streamlit application.
 
 The platform enables users to explore player performance, compare teams, analyze venue and pitch trends, investigate batting partnerships, predict match outcomes, and forecast future player performance.
 
-## ✨ Key Features
+##  Key Features
 
 - **Player Analytics:** Explore player performance and season-wise batting and bowling statistics.
 - **Team Comparison:** Compare team records and head-to-head performance across seasons.
@@ -19,7 +19,7 @@ The platform enables users to explore player performance, compare teams, analyze
 - **Strategy Simulator:** Explore team or match scenarios supported by the implemented simulation logic.
 - **Performance Forecasting:** Use the Prophet time-series model to project future player performance trends.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Programming:** Python, SQL
 - **Database:** MySQL
@@ -30,7 +30,7 @@ The platform enables users to explore player performance, compare teams, analyze
 - **Dashboard:** Streamlit
 - **Version Control:** Git and GitHub
 
-## 🗄️ Database Design
+##  Database Design
 
 The system uses a relational database to organize IPL data and support efficient analytical queries.
 
@@ -42,7 +42,7 @@ Database concepts demonstrated include:
 - SQL joins, aggregations, and analytical queries
 - Data cleaning, deduplication, and aggregation
 
-## ⚙️ System Workflow
+##  System Workflow
 
 1. Collect and load historical IPL datasets.
 2. Clean, validate, and preprocess the data.
@@ -52,7 +52,7 @@ Database concepts demonstrated include:
 6. Apply prediction and forecasting techniques.
 7. Present results through an interactive Streamlit dashboard.
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository.
 2. Create and activate a Python virtual environment.
@@ -63,15 +63,15 @@ Database concepts demonstrated include:
 
 Refer to the installation and database setup instructions in this repository before running the application.
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 Document the evaluation methodology and measured results for the match prediction and forecasting components. Include appropriate metrics, baseline comparisons, and validation details after testing.
 
-## ⚠️ Limitations
+##  Limitations
 
 Predictions and forecasts are estimates based on historical data and the assumptions of the implemented models. They do not guarantee actual match outcomes or future player performance.
 
-## 🔮 Future Scope
+##  Future Scope
 
 - Advanced player performance and match-up analytics
 - More rigorous model validation and calibration
